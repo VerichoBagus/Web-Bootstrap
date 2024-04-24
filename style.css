@@ -1,0 +1,52 @@
+.banner {
+    background: url('https://4kwallpapers.com/images/wallpapers/neon-lighting-1920x1080-12477.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 210px;
+    padding-bottom: 210px;
+    color: #fff;
+}
+
+.box {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+  body {
+    position: relative;
+    font-family: sans-serif;
+  }
+  .lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: aliceblue;
+    background-color: red;
+  }
+
+  .lingkaran i{
+    position: relative;
+    top: 30px;
+  }
+
+  .tim img{
+    width: 250px;
+    border: 10px solid #cccc;
+  }
+  a.social{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+  }
+.Kontak{
+    background: url(https://static.vecteezy.com/system/resources/previews/008/015/898/non_2x/concept-contact-us-or-connected-customer-support-hotline-businessman-touching-icon-to-communicate-on-a-virtual-screen-through-a-digital-global-network-free-photo.jpg) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: azure;
+
+}
